@@ -1,7 +1,13 @@
 body {
   background-color: lightblue;
 }
-<title {
-  margin: 40px 60px;
-} 
-</title>
+
+h1{
+  background-color: black;
+  color:white;
+}
+
+h1{
+  text-shadow: 4px 4px 6px red;
+}
+
